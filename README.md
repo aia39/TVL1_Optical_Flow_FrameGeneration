@@ -18,6 +18,7 @@ Parent_folder
 
 ...
 
+And all the generated optical flow frame will be saved in a pre-created folder 'Optical Flow Frame' in structured way like input directory which is mentioned in the code(you can change according to your choice) 
 
 ## Demo of the Optical Flow Frame 
 
