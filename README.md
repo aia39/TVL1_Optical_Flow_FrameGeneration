@@ -5,13 +5,11 @@ Parent_folder(Contains videos)
 
 |
 
-+
-sub_folder1
++sub_folder1
 
 |
 
-+
-sub_folder2
++sub_folder2
 
 |
 
