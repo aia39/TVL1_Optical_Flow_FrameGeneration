@@ -1,22 +1,26 @@
 ## TVL1_Optical_Flow_FrameGeneration
-Generating optical flow frame by using TVL1 algorithm in organized way is not so difficult.But for a newbie it is toilsome to find this easier task.TVL1 is most popular way to generate optical flow frame which outperforms most other algorithm but lacks processing speed.
+Generating optical flow frame by using TVL1 algorithm in organized way is not so difficult. But for a newbie it is toilsome to find this easier task. TVL1 is most popular way to generate optical flow frame which outperforms most other algorithm but lacks processing speed.
 
 
 ## Folder Directory Hierarchy
 
-Parent_folder
 
-|
+```
+Parent_folder/
+    sub_folder1/
+        video1.mp4
+        video2.mp4
 
-+ sub_folder1
+        ...
+        
+    sub_folder2/
+        video1.mp4
+        video2.mp4
 
-|
+        ...
+        
+```
 
-+ sub_folder2
-
-|
-
-...
 
 And all the generated optical flow frame will be saved in a pre-created folder 'Optical Flow Frame' in structured way like input directory which is mentioned in the code(you can change according to your choice) 
 
